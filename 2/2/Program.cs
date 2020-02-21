@@ -15,7 +15,7 @@ namespace _2
             //if (x == y)
             //{
             //    Console.WriteLine("SON IGUALES");
-
+            
             //}
             //else
             //{
